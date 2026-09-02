@@ -46,7 +46,7 @@ id: demo-todo-1
 type: task
 - [ ] templater
 - [ ] dataview
-- [ ] quickadd
+    - [ ] quickadd
 - [ ] 多端协同
 - [ ] 看看大创
 - [x] 日记模板
@@ -60,7 +60,7 @@ type: task
 id: demo-todo-2
 type: task
 - [ ] 点击左侧隐藏条拉出左侧栏
-- [ ] 点击图钉按钮取消固定左侧栏
+    - [ ] 点击图钉按钮取消固定左侧栏
 - [ ] 在设置中开启更多小组件
 - [ ] 点击 Banner 区的书签按钮收起 Banner
 

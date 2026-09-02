@@ -44,9 +44,9 @@ columns:
 ### 9.1
 id: demo-todo-1
 type: task
-- [ ] dataview
-- [ ] quickadd
 - [ ] templater
+- [ ] dataview
+    - [ ] quickadd
 - [ ] 多端协同
 - [ ] 看看大创
 - [x] 日记模板

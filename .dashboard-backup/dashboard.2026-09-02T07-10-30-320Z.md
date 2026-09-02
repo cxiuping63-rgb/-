@@ -44,11 +44,12 @@ columns:
 ### 9.1
 id: demo-todo-1
 type: task
+- [ ] templater
 - [ ] dataview
 - [ ] quickadd
-- [ ] templater
-    - [ ] 多端协同
+- [ ] 多端协同
 - [ ] 看看大创
+- [x] 日记模板
 
 ### 9.2
 id: card-mtis2q53
