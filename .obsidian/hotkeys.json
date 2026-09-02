@@ -1,0 +1,45 @@
+{
+  "cmdr:open-commander-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "apex-dashboard:open-dashboard": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "templater-obsidian:create-templates/Insert Callouts.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "templater-obsidian:templates/Insert Callouts.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "quickadd:choice:b0bd7019-2831-4037-806a-16ec72a3b49c": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "+"
+    }
+  ]
+}

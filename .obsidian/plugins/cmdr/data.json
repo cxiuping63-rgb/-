@@ -1,0 +1,55 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "workspace:export-pdf",
+      "icon": "lucide-arrow-big-up-dash",
+      "name": "导出为 PDF",
+      "mode": "any"
+    },
+    {
+      "id": "apex-dashboard:open-dashboard",
+      "icon": "lucide-airplay",
+      "name": "Apex Dashboard: 打开工作台",
+      "mode": "any"
+    },
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "日记: 打开/创建今天的日记",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:b0bd7019-2831-4037-806a-16ec72a3b49c",
+      "icon": "pencil",
+      "name": "QuickAdd: timeline",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "textToolbarCommands": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
