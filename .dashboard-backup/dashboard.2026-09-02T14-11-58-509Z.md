@@ -41,26 +41,21 @@ columns:
 
 ## Todo
 
-### 9.1
+### ob相关
 id: demo-todo-1
 type: task
-- [ ] templater
-- [ ] dataview
-    - [ ] quickadd
-- [ ] 多端协同
-- [ ] 看看大创
-- [x] 日记模板
+width: 300
 
 ### 9.2
 id: card-mtis2q53
 type: task
-- [ ] nlp day1、2
+- [ ] 英语书籍单词上传
 
 ### 界面操作指南
 id: demo-todo-2
 type: task
 - [ ] 点击左侧隐藏条拉出左侧栏
-- [ ] 点击图钉按钮取消固定左侧栏
+    - [ ] 点击图钉按钮取消固定左侧栏
 - [ ] 在设置中开启更多小组件
 - [ ] 点击 Banner 区的书签按钮收起 Banner
 

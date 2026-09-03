@@ -1,11 +1,12 @@
 ---
-Title: <% tp.system.prompt("请输入书名")%>
-Chapter: <% tp.system.prompt("请输入章节号")%>
+Title: harry potter
+Chapter: one
 ---
 # words and phrases
 
 | words | meaning | context |
 | ----- | ------- | ------- |
+|       |         |         |
 |       |         |         |
 # sentences
 

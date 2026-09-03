@@ -32,6 +32,12 @@
       "icon": "pencil",
       "name": "QuickAdd: timeline",
       "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:460731f4-d15b-4db0-9ff5-3137701098e6",
+      "icon": "file-text",
+      "name": "QuickAdd: 英语小记",
+      "mode": "any"
     }
   ],
   "macros": [],

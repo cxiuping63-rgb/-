@@ -41,20 +41,10 @@ columns:
 
 ## Todo
 
-### 9.1
-id: demo-todo-1
-type: task
-- [ ] templater
-- [ ] dataview
-    - [ ] quickadd
-- [ ] 多端协同
-- [ ] 看看大创
-- [x] 日记模板
-
 ### 9.2
 id: card-mtis2q53
 type: task
-- [ ] nlp day1、2
+- [ ] 英语书籍单词上传
 
 ### 界面操作指南
 id: demo-todo-2

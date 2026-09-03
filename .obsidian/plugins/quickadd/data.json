@@ -54,6 +54,37 @@
       "templater": {
         "afterCapture": "none"
       }
+    },
+    {
+      "id": "460731f4-d15b-4db0-9ff5-3137701098e6",
+      "name": "英语小记",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/书籍单词.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "copyLinkToClipboard": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
     }
   ],
   "inputPrompt": "single-line",
