@@ -41,30 +41,18 @@ columns:
 
 ## Todo
 
-### ob相关
-id: demo-todo-1
-type: task
-width: 300
-- [x] 日记模板
-- [x] templater
-- [x] dataview
-- [x] 看看大创
-- [x] quickadd
-- [x] 多端协同
-
-### 9.2
+### 一些技能
 id: card-mtis2q53
 type: task
-- [ ] 英语书籍单词上传
-- [ ] 双端同步
+- [ ] 学习AI用三件套
 
-### 界面操作指南
-id: demo-todo-2
+### 加分与进组
+id: card-mtkzgr1u
 type: task
-- [ ] 点击左侧隐藏条拉出左侧栏
-    - [ ] 点击图钉按钮取消固定左侧栏
-- [ ] 在设置中开启更多小组件
-- [ ] 点击 Banner 区的书签按钮收起 Banner
+- [ ] 给CV发邮件
+- [x] 问问大创找老师的事情
+- [ ] 给师斌发邮件
+- [x] 给梳子姐姐要群号
 
 ## 小小plan
 
