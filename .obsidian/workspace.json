@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e55c08b5de8efb6",
+        "id": "013d2f18a80f4b56",
         "type": "tabs",
         "children": [
           {
-            "id": "7d58242c7863fc87",
+            "id": "1bc11ab830909f4d",
             "type": "leaf",
             "state": {
               "type": "apex-dashboard-view",
@@ -18,63 +18,21 @@
             }
           },
           {
-            "id": "3b45415082cb59b7",
+            "id": "8e672363960008a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/日记or随心记.md",
+                "file": "日记/2026-09-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日记or随心记"
+              "title": "2026-09-04"
             }
           },
           {
-            "id": "c2fd2ba72063b171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/日记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "日记"
-            }
-          },
-          {
-            "id": "f68c1b86c981bb64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2026-09-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-02"
-            }
-          },
-          {
-            "id": "fe776092bb7f9888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2026-09-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-02"
-            }
-          },
-          {
-            "id": "870972aece27d44e",
+            "id": "1ae343f9f8d423d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,63 +46,49 @@
             }
           },
           {
-            "id": "a783b8e097a61415",
+            "id": "d471d7e21c0d91a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-09-02.md",
+                "file": "CS/nlp/文本处理基本方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-02"
+              "title": "文本处理基本方法"
             }
           },
           {
-            "id": "2566619e7a142daa",
+            "id": "95a8c30e2fbf3b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/日记.md",
+                "file": "CS/nlp/文本怎么变成张量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日记"
+              "title": "文本怎么变成张量"
             }
           },
           {
-            "id": "a486e987d770022b",
+            "id": "16bba180490eb192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主页/dashboard.md",
+                "file": "CS/nlp/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dashboard"
-            }
-          },
-          {
-            "id": "8bf35d8c3bdf2a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "主页/dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -336,9 +280,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8bf35d8c3bdf2a46",
+  "active": "16bba180490eb192",
   "lastOpenFiles": [
+    "CS/nlp/文本处理基本方法.md",
+    "CS/nlp/未命名.md",
+    "CS/nlp/文本怎么变成张量.md",
     "主页/dashboard.md",
+    "CS/nlp",
+    "日记/2026-09-06.md",
+    "日记/2026-09-04.md",
     "主页/闪念/2026-09-02-2212.md",
     "主页/归档/已完成.md",
     "主页/闪念",
@@ -368,12 +318,6 @@
     "templates",
     "主页/memos/2026-09-01 备忘录-20260901-180934.md",
     "主页/memos",
-    "闪念/2026-09-01-1758.md",
-    "闪念",
-    "CS/啊左/30异或运算骚操作.md",
-    "CS/啊左/21归并排序.md",
-    "CS/啊左/6二分搜索.md",
-    "人文社科/社会学/社会学概论.md",
     "CS/啊左/attachments/Pasted image 20260530223707.png",
     "CS/啊左/attachments/Pasted image 20260530223130.png",
     "CS/啊左/attachments/Pasted image 20260530222946.png",

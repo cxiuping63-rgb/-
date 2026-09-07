@@ -60,13 +60,12 @@ id: card-mtii96uj
 
 ## Memo
 
-### 2026-09-01 备忘
-id: demo-memo-1
-欢迎使用 Apex Dashboard！点击此处编辑你的第一条备忘。
-
 ### 提示：Dashboard 文件路径
 id: demo-memo-path
 你可以在 设置 > Apex Dashboard 中修改 dashboard 文件路径。
+
+### 2026-09-04 备忘录
+id: card-mtn3dh8r
 
 ## Projects
 
