@@ -18,21 +18,7 @@
             }
           },
           {
-            "id": "8e672363960008a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2026-09-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-04"
-            }
-          },
-          {
-            "id": "1ae343f9f8d423d9",
+            "id": "d8fad280b4a20b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,49 +32,49 @@
             }
           },
           {
-            "id": "d471d7e21c0d91a3",
+            "id": "9713ff62fc5f85c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/nlp/文本处理基本方法.md",
+                "file": "日记/2026-09-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文本处理基本方法"
+              "title": "2026-09-08"
             }
           },
           {
-            "id": "95a8c30e2fbf3b76",
+            "id": "669d16a43b397da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/nlp/文本怎么变成张量.md",
+                "file": "日记/2026-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文本怎么变成张量"
+              "title": "2026-09-09"
             }
           },
           {
-            "id": "16bba180490eb192",
+            "id": "c9d842ac5e8b5621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/nlp/未命名.md",
+                "file": "主页/dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "dashboard"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -280,24 +266,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16bba180490eb192",
+  "active": "c9d842ac5e8b5621",
   "lastOpenFiles": [
+    "日记/2026-09-08.md",
+    "日记/2026-09-09.md",
+    "主页/dashboard.md",
+    "日记/2026-09-04.md",
+    "日记/2026-09-02.md",
+    "日记/2026-09-01.md",
+    "日记/2026-09-06.md",
     "CS/nlp/文本处理基本方法.md",
     "CS/nlp/未命名.md",
     "CS/nlp/文本怎么变成张量.md",
-    "主页/dashboard.md",
     "CS/nlp",
-    "日记/2026-09-06.md",
-    "日记/2026-09-04.md",
     "主页/闪念/2026-09-02-2212.md",
     "主页/归档/已完成.md",
     "主页/闪念",
     "templates/日记.md",
     "主页/归档",
-    "日记/2026-09-02.md",
     "templates/书籍单词.md",
     "templates/日记or随心记.md",
-    "日记/2026-09-01.md",
     "templates/Insert Callouts.md",
     "英语/书籍单词/hp01-chapter one.md",
     "英语/书籍单词/书籍单词 1.md",
@@ -312,11 +300,9 @@
     "2026-09-01.md",
     "日记",
     "英语/书籍单词/Untitled.md",
-    "未命名.md",
     "阅读",
     "英语/书籍单词",
     "templates",
-    "主页/memos/2026-09-01 备忘录-20260901-180934.md",
     "主页/memos",
     "CS/啊左/attachments/Pasted image 20260530223707.png",
     "CS/啊左/attachments/Pasted image 20260530223130.png",

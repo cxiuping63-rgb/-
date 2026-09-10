@@ -50,7 +50,7 @@ type: task
 id: card-mtkzgr1u
 type: task
 - [x] 问问大创找老师的事情
-- [ ] 给师斌发邮件 ⏰ 2026-09-09 13:00
+- [ ] 给师斌发邮件 ⏰ 2026-09-09 21:00
 - [x] 给梳子姐姐要群号
 
 ## 小小plan
@@ -63,6 +63,9 @@ id: card-mtii96uj
 ### 提示：Dashboard 文件路径
 id: demo-memo-path
 你可以在 设置 > Apex Dashboard 中修改 dashboard 文件路径。
+
+### 2026-09-04 备忘录
+id: card-mtn3dh8r
 
 ## Projects
 
