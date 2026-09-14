@@ -14,3 +14,5 @@ tp.system
 ·< tp.system.prompt(“请输入作者”)>
 *< tp.system.suggester(["to-read", "reading", "done"], ["to-read", "reading",
 "done"], true, 'status')>
+
+<% tp.system.suggester(["section 1","section 2","section 3"],["section 1","section 2","section 3"],true,'section') %>

@@ -12,6 +12,10 @@
     {
       "folder": "英语/书籍单词",
       "template": "templates/书籍单词.md"
+    },
+    {
+      "folder": "英语/articles",
+      "template": "templates/文章单词.md"
     }
   ],
   "file_templates": [],

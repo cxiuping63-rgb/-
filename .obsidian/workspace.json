@@ -18,77 +18,35 @@
             }
           },
           {
-            "id": "019d31e4378a5617",
+            "id": "1cee60f1ddb9d9d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-09-11.md",
+                "file": "templates/文章单词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-11"
+              "title": "文章单词"
             }
           },
           {
-            "id": "cceac3cb771eb87d",
+            "id": "320701072e43db70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/nlp/文本怎么变成张量.md",
+                "file": "英语/articles/can love at first sight happen 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文本怎么变成张量"
-            }
-          },
-          {
-            "id": "d46b0e2ae04e9dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/nlp/文本数据分析与特征处理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "文本数据分析与特征处理"
-            }
-          },
-          {
-            "id": "99dc6839a2fe5831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/nlp/未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "91f2346379e81b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "主页/dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "can love at first sight happen 01"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae8ea7b147cc6d19",
@@ -280,13 +239,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91f2346379e81b4f",
+  "active": "320701072e43db70",
   "lastOpenFiles": [
-    "CS/nlp/RNN → LSTM → BiLSTM → GRU.md",
+    "英语/书籍单词/hp01-chapter one.md",
+    "templates/书籍单词.md",
+    "templates/文章单词.md",
+    "英语/articles/can love at first sight happen 01.md",
+    "英语/articles/未命名.md",
+    "templates/日记or随心记.md",
+    "英语/articles",
+    "日记/2026-09-14.md",
+    "主页/dashboard.md",
+    "日记/2026-09-13.md",
     "CS/nlp/未命名.md",
     "CS/nlp/文本数据分析与特征处理.md",
-    "CS/nlp/文本处理基本方法.md",
     "CS/nlp/文本怎么变成张量.md",
+    "CS/nlp/RNN → LSTM → BiLSTM → GRU.md",
+    "CS/nlp/文本处理基本方法.md",
     "日记/2026-09-11.md",
     "日记/2026-09-10.md",
     "日记/2026-09-09.md",
@@ -295,29 +264,19 @@
     "日记/2026-09-04.md",
     "日记/2026-09-06.md",
     "日记/2026-09-08.md",
-    "主页/dashboard.md",
     "CS/nlp",
     "主页/闪念/2026-09-02-2212.md",
     "主页/归档/已完成.md",
     "主页/闪念",
     "templates/日记.md",
     "主页/归档",
-    "templates/书籍单词.md",
-    "templates/日记or随心记.md",
     "templates/Insert Callouts.md",
-    "英语/书籍单词/hp01-chapter one.md",
-    "英语/书籍单词/书籍单词 1.md",
-    "templates/hp01.md",
-    "测试/开始测试.md",
     "新建文件夹",
-    "templates/未命名.md",
     "测试",
-    "英语/书籍单词/未命名.md",
     "日记",
     "阅读",
     "英语/书籍单词",
     "templates",
-    "主页/memos",
     "CS/啊左/attachments/Pasted image 20260530223707.png",
     "CS/啊左/attachments/Pasted image 20260530223130.png",
     "CS/啊左/attachments/Pasted image 20260530222946.png",
