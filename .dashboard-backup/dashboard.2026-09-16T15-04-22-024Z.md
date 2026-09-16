@@ -31,7 +31,7 @@ columns:
   - name: Memo
     color: "#f59e0b"
     type: memo
-    height: 410
+    height: 384
   - name: Projects
     color: "#10b981"
     type: projects
@@ -46,10 +46,17 @@ columns:
 id: card-mtis2q53
 type: task
 width: 200
+- [ ] 写算法之前任务
+- [ ] 发消息
+- [ ] 写电路
 - [ ] 看C++包
 - [ ] 看transformer最后
-- [ ] 看agent*3
 - [ ] 看英语
+
+### 待办清单
+id: card-mu2mu8r4
+type: task
+width: 200
 
 ### 加分与进组
 id: card-mtkzgr1u

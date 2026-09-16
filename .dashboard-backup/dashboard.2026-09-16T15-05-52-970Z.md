@@ -31,7 +31,7 @@ columns:
   - name: Memo
     color: "#f59e0b"
     type: memo
-    height: 400
+    height: 384
   - name: Projects
     color: "#10b981"
     type: projects
@@ -46,10 +46,17 @@ columns:
 id: card-mtis2q53
 type: task
 width: 200
+- [ ] 写算法之前任务
+- [ ] 发消息
+- [ ] 写电路
 - [ ] 看C++包
 - [ ] 看transformer最后
-- [ ] 看agent*3
 - [ ] 看英语
+
+### 待办清单
+id: card-mu2mu8r4
+type: task
+width: 200
 
 ### 加分与进组
 id: card-mtkzgr1u
@@ -68,6 +75,9 @@ id: card-mu19iirt
 师斌老师没有回邮件突然很焦虑
 首先第一，老师可能只是开学忙，没看到邮件，三天之后也就是周四老师如果还没有回的话可以直接用微信说了//或者邮件发
 其次你的知识还没有看完，趁这几天赶紧给看了，再好好复习复习，别露怯了
+
+### 2026-09-16 备忘录
+id: card-mu48ekqt
 
 ## Memo
 
